@@ -31,7 +31,6 @@ require (
 	github.com/mdempsky/gocode v0.0.0-20200405233807-4acdcbdea79d // indirect
 	github.com/mibk/dupl v1.0.0 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.15 // indirect
-	github.com/minio/minio v0.0.0-20210526185546-b251ae5f3d66
 	github.com/montanaflynn/stats v0.6.5
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354 // indirect
 	github.com/nicksnyder/go-i18n v1.10.1 // indirect
